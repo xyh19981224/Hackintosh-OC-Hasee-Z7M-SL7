@@ -278,7 +278,7 @@
                     <key>BundlePath</key>
                     <string>AppleALC.kext</string>
                     <key>Comment</key>
-                    <string>V1.7.5</string>
+                    <string>V1.7.6</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -1126,13 +1126,13 @@
                 <key>AdviseFeatures</key>
                 <false/>
                 <key>MLB</key>
-                <string>C02706130CDHCF9AD</string>
+                <string>C02725306GUHCF91F</string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
                 <integer>0</integer>
                 <key>ROM</key>
-                <data>haqcEdHn</data>
+                <data>cPvm2F9d</data>
                 <key>SpoofVendor</key>
                 <true/>
                 <key>SystemMemoryStatus</key>
@@ -1140,9 +1140,9 @@
                 <key>SystemProductName</key>
                 <string>MacBookPro13,3</string>
                 <key>SystemSerialNumber</key>
-                <string>C02T7SY3GTFN</string>
+                <string>C02TWSZ4GTFN</string>
                 <key>SystemUUID</key>
-                <string>32453262-C639-4695-AFC5-35010F303710</string>
+                <string>05C4E550-CA25-407B-A1C6-5D1FA5E49C1A</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
@@ -1184,6 +1184,12 @@
                 <integer>50</integer>
                 <key>KeySubsequentDelay</key>
                 <integer>5</integer>
+                <key>PointerDwellClickTimeout</key>
+                <integer>0</integer>
+                <key>PointerDwellDoubleClickTimeout</key>
+                <integer>0</integer>
+                <key>PointerDwellRadius</key>
+                <integer>0</integer>
                 <key>PointerPollMask</key>
                 <integer>-1</integer>
                 <key>PointerPollMax</key>
