@@ -278,7 +278,7 @@
                     <key>BundlePath</key>
                     <string>AppleALC.kext</string>
                     <key>Comment</key>
-                    <string>V1.7.6</string>
+                    <string>V1.7.7</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -440,7 +440,7 @@
                     <key>BundlePath</key>
                     <string>VoodooPS2Controller.kext</string>
                     <key>Comment</key>
-                    <string>V2.3.1</string>
+                    <string>V2.3.2</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -476,7 +476,7 @@
                     <key>BundlePath</key>
                     <string>VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Keyboard.kext</string>
                     <key>Comment</key>
-                    <string>V2.3.1</string>
+                    <string>V2.3.2</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -494,7 +494,7 @@
                     <key>BundlePath</key>
                     <string>VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Mouse.kext</string>
                     <key>Comment</key>
-                    <string>V2.3.1</string>
+                    <string>V2.3.2</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -512,7 +512,7 @@
                     <key>BundlePath</key>
                     <string>VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Trackpad.kext</string>
                     <key>Comment</key>
-                    <string>V2.3.1</string>
+                    <string>V2.3.2</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -548,7 +548,7 @@
                     <key>BundlePath</key>
                     <string>WhateverGreen.kext</string>
                     <key>Comment</key>
-                    <string>V1.6.1</string>
+                    <string>V1.6.2</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -886,6 +886,8 @@
                 <integer>0</integer>
                 <key>HibernateMode</key>
                 <string>None</string>
+                <key>HibernateSkipsPicker</key>
+                <false/>
                 <key>HideAuxiliary</key>
                 <false/>
                 <key>LauncherOption</key>
@@ -1126,13 +1128,13 @@
                 <key>AdviseFeatures</key>
                 <false/>
                 <key>MLB</key>
-                <string>C02725306GUHCF91F</string>
+                <string>C02742902QXHCF9JA</string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
                 <integer>0</integer>
                 <key>ROM</key>
-                <data>cPvm2F9d</data>
+                <data>7nNQsw6a</data>
                 <key>SpoofVendor</key>
                 <true/>
                 <key>SystemMemoryStatus</key>
@@ -1140,9 +1142,9 @@
                 <key>SystemProductName</key>
                 <string>MacBookPro13,3</string>
                 <key>SystemSerialNumber</key>
-                <string>C02TWSZ4GTFN</string>
+                <string>C02VKEYNGTFN</string>
                 <key>SystemUUID</key>
-                <string>05C4E550-CA25-407B-A1C6-5D1FA5E49C1A</string>
+                <string>363778AC-06A3-45F4-A0BA-ABD2282D2E37</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
